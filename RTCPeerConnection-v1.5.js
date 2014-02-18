@@ -1,8 +1,4 @@
-// Last time updated at 15 Feb 2014, 17:32:23
 
-// Muaz Khan     - github.com/muaz-khan
-// MIT License   - www.WebRTC-Experiment.com/licence
-// Documentation - github.com/muaz-khan/WebRTC-Experiment/tree/master/RTCPeerConnection
 
 window.moz = !!navigator.mozGetUserMedia;
 var chromeVersion = !!navigator.mozGetUserMedia ? 0 : parseInt(navigator.userAgent.match( /Chrom(e|ium)\/([0-9]+)\./ )[2]);
